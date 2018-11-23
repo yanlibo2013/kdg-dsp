@@ -1,0 +1,4 @@
+export const LOGIN = 'LOGIN';
+export const SET_WINDOW_HEIGHT = 'SET_WINDOW_HEIGHT';
+export const GET_SIDEBAR_DATA = 'GET_SIDEBAR_DATA'
+export const SET_PUBLICK_KEY="SET_PUBLICK_KEY"
